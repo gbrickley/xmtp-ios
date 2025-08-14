@@ -14,17 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/krzyzanowskim/CryptoSwift.git",
       "state" : {
-        "revision" : "678d442c6f7828def400a70ae15968aef67ef52d",
-        "version" : "1.8.3"
-      }
-    },
-    {
-      "identity" : "csecp256k1.swift",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/tesseract-one/CSecp256k1.swift.git",
-      "state" : {
-        "revision" : "cfbd6f540d5084bc96a60af841121472fbe725a3",
-        "version" : "0.2.0"
+        "revision" : "e45a26384239e028ec87fbcc788f513b67e10d8f",
+        "version" : "1.9.0"
       }
     },
     {
@@ -32,8 +23,17 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/xmtp/libxmtp-swift.git",
       "state" : {
-        "revision" : "bc1e1097f252a54ebaa81e52af9490f85ee3a30a",
-        "version" : "4.0.0"
+        "revision" : "3f630b1a7e01eceb0d0d5060a09400b8c934c6b2",
+        "version" : "4.4.0-rc1"
+      }
+    },
+    {
+      "identity" : "secp256k1.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GigaBitcoin/secp256k1.swift.git",
+      "state" : {
+        "revision" : "4c77c7384768acf1093d66ccaacf298d322b10b7",
+        "version" : "0.15.0"
       }
     },
     {
